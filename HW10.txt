@@ -1,0 +1,34 @@
+For this homework you will not need to write any code. Instead you will write a
+short paragraph answering the below question. You will save this paragraph in a
+textfile called HW10 and upload it to your github repo.
+
+
+Question 01)
+
+Briefly describe a computing project you would find interesting to work on in
+the future. This project may be
+
+1) Implementing existing mathematics as algorithms, as we have done in this
+course.
+
+2) A simple project to learn another computing language.
+
+3) An addition to the linear algebra package from your final project. 
+
+4) A project to learn more complex tools in python. (Such as numpy, scipy,
+pandas, machine learning packages such as tensorflow, etc...)
+
+5) A computer application (such as a video game, art tools, music editor, etc..)
+
+6) Any other type of project which I have failed to mention here. 
+
+I would want to work on a computer application because I want to create a video game.
+The video games I would like to create involves basketball and football. I want to
+create an NBA 2K and Madden game that use to make the game fun when I played it as
+a kid. The thing I would change in the Madden game is to make fumbles harder to come
+by as in recent Madden games fumbles are easy to come by. In NBA 2K, I would change
+the shot meter because the NBA 2K21 shot meter game made me mad and it is boring to
+play.
+
+
+Your answer does not need to be exceptionally detailed. Just a short paragraph.
